@@ -4,3 +4,4 @@
 /job_postings_fact.csv
 /skills_dim.csv
 /skills_job_dim.csv
+sql_load/modify_files.sql
