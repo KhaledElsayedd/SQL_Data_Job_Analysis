@@ -2,6 +2,8 @@
  Question: What are the top paying data analyst jobs in Egypt?
  - Discover the top paying jobs for data analyst's that are available in Egypt.
  - Focusing on jobs with specified salaries (remove nulls).
+ - Why? To grab insights about the top paying jobs in Egypt,
+ which could help me as a data analyst find the optimal job that suits me. 
  */
 SELECT job_id,
     job_title,

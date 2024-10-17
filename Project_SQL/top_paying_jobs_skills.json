@@ -1,0 +1,152 @@
+[
+  {
+    "job_id": 151019,
+    "job_title": "Data Analyst - D&T",
+    "company_name": "HEINEKEN",
+    "job_location": "Egypt",
+    "job_schedule_type": "Full-time",
+    "avg_yearly_salary": "75550.0",
+    "job_posted_date": "2023-12-10",
+    "skills": "sql"
+  },
+  {
+    "job_id": 151019,
+    "job_title": "Data Analyst - D&T",
+    "company_name": "HEINEKEN",
+    "job_location": "Egypt",
+    "job_schedule_type": "Full-time",
+    "avg_yearly_salary": "75550.0",
+    "job_posted_date": "2023-12-10",
+    "skills": "python"
+  },
+  {
+    "job_id": 151019,
+    "job_title": "Data Analyst - D&T",
+    "company_name": "HEINEKEN",
+    "job_location": "Egypt",
+    "job_schedule_type": "Full-time",
+    "avg_yearly_salary": "75550.0",
+    "job_posted_date": "2023-12-10",
+    "skills": "azure"
+  },
+  {
+    "job_id": 151019,
+    "job_title": "Data Analyst - D&T",
+    "company_name": "HEINEKEN",
+    "job_location": "Egypt",
+    "job_schedule_type": "Full-time",
+    "avg_yearly_salary": "75550.0",
+    "job_posted_date": "2023-12-10",
+    "skills": "power bi"
+  },
+  {
+    "job_id": 151019,
+    "job_title": "Data Analyst - D&T",
+    "company_name": "HEINEKEN",
+    "job_location": "Egypt",
+    "job_schedule_type": "Full-time",
+    "avg_yearly_salary": "75550.0",
+    "job_posted_date": "2023-12-10",
+    "skills": "dax"
+  },
+  {
+    "job_id": 151019,
+    "job_title": "Data Analyst - D&T",
+    "company_name": "HEINEKEN",
+    "job_location": "Egypt",
+    "job_schedule_type": "Full-time",
+    "avg_yearly_salary": "75550.0",
+    "job_posted_date": "2023-12-10",
+    "skills": "sap"
+  },
+  {
+    "job_id": 151019,
+    "job_title": "Data Analyst - D&T",
+    "company_name": "HEINEKEN",
+    "job_location": "Egypt",
+    "job_schedule_type": "Full-time",
+    "avg_yearly_salary": "75550.0",
+    "job_posted_date": "2023-12-10",
+    "skills": "flow"
+  },
+  {
+    "job_id": 569587,
+    "job_title": "Data Analyst",
+    "company_name": "Contentsquare",
+    "job_location": "Cairo, Egypt",
+    "job_schedule_type": "Full-time",
+    "avg_yearly_salary": "57500.0",
+    "job_posted_date": "2023-08-18",
+    "skills": "python"
+  },
+  {
+    "job_id": 751554,
+    "job_title": "Market Data Analyst f/m",
+    "company_name": "Bosch Group",
+    "job_location": "Egypt",
+    "job_schedule_type": "Full-time",
+    "avg_yearly_salary": "51014.0",
+    "job_posted_date": "2023-01-19",
+    "skills": "sql"
+  },
+  {
+    "job_id": 751554,
+    "job_title": "Market Data Analyst f/m",
+    "company_name": "Bosch Group",
+    "job_location": "Egypt",
+    "job_schedule_type": "Full-time",
+    "avg_yearly_salary": "51014.0",
+    "job_posted_date": "2023-01-19",
+    "skills": "python"
+  },
+  {
+    "job_id": 751554,
+    "job_title": "Market Data Analyst f/m",
+    "company_name": "Bosch Group",
+    "job_location": "Egypt",
+    "job_schedule_type": "Full-time",
+    "avg_yearly_salary": "51014.0",
+    "job_posted_date": "2023-01-19",
+    "skills": "r"
+  },
+  {
+    "job_id": 751554,
+    "job_title": "Market Data Analyst f/m",
+    "company_name": "Bosch Group",
+    "job_location": "Egypt",
+    "job_schedule_type": "Full-time",
+    "avg_yearly_salary": "51014.0",
+    "job_posted_date": "2023-01-19",
+    "skills": "spark"
+  },
+  {
+    "job_id": 751554,
+    "job_title": "Market Data Analyst f/m",
+    "company_name": "Bosch Group",
+    "job_location": "Egypt",
+    "job_schedule_type": "Full-time",
+    "avg_yearly_salary": "51014.0",
+    "job_posted_date": "2023-01-19",
+    "skills": "excel"
+  },
+  {
+    "job_id": 751554,
+    "job_title": "Market Data Analyst f/m",
+    "company_name": "Bosch Group",
+    "job_location": "Egypt",
+    "job_schedule_type": "Full-time",
+    "avg_yearly_salary": "51014.0",
+    "job_posted_date": "2023-01-19",
+    "skills": "tableau"
+  },
+  {
+    "job_id": 687385,
+    "job_title": "Imaging Geophysicist / Scientist - 2023 Graduate Programme",
+    "company_name": "CGG",
+    "job_location": "Cairo, Egypt",
+    "job_schedule_type": "Full-time",
+    "avg_yearly_salary": "50400.0",
+    "job_posted_date": "2023-05-19",
+    "skills": "flow"
+  }
+]
