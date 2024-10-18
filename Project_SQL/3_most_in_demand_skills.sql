@@ -18,14 +18,6 @@ FROM (
 ORDER BY number_of_jobs DESC
 LIMIT 5;
 /*
- INSIGHTS:
- 
- 1. SQL was the most in-demand skill in 2023, required in 110,380 job postings.
- 2. Excel followed with 75,348 job postings, showing continued demand for spreadsheet and data manipulation skills.
- 3. Python came third with 68,409 postings, reflecting its growing importance in data analysis and programming roles.
- 4. Tableau had 56,569 job postings, indicating the demand for data visualization expertise.
- 5. Power BI rounded out the top 5 with 45,482 job postings, further emphasizing the need for business intelligence tools.
- 
  The following percentages represent each skill's share of the total job postings:
  - SQL: 30.9%
  - Excel: 21.1%
