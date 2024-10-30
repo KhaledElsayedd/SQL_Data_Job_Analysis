@@ -206,14 +206,15 @@ WHERE avg_pay > 97348
 ```
 INSIGHTS:
      
-     1. Top Skills:
+1. Top Skills:
      - **SQL** has the highest demand with 110,380 job postings and an average pay of $100,299, making it a key skill in the job market.
      - **AWS** and **Azure** are highly demanded cloud skills with job postings around 11,197 and 13,221, respectively, and average pays of over $107,000.
      - **Python** remains a critical programming language with 68,409 job postings and a solid average pay of $105,115.
      
-     2. Data-related Tools: Skills such as **Tableau** (56,569 job postings), **Spark**, and **Databricks** also feature prominently, reflecting the increasing demand for data analytics and engineering.
+2. Data-related Tools: Skills such as **Tableau** (56,569 job postings), **Spark**, and **Databricks** also feature prominently, reflecting the increasing demand for data analytics and engineering.
      
-     3. High-Paying Skills: **Snowflake** ($112,876), **GCP** ($113,367), and **Databricks** ($114,910) offer among the highest average salaries, indicating the growing importance of cloud and data processing platforms.
+3. High-Paying Skills: **Snowflake** ($112,876), **GCP** ($113,367), and **Databricks** ($114,910) offer among the highest average salaries, indicating the growing importance of cloud and data processing platforms.
+
 **Here's a breakdown:**
 
 ![average_pay_per_skill](average_pay_per_skill.png)
