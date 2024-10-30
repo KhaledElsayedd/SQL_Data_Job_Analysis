@@ -52,6 +52,7 @@ Other salaries include $57,500 for the role at Contentsquare and $51,014 for the
 The average yearly salary across all roles is approximately $58,116.
 - **Job Schedule:** <br>
 All positions are full-time, indicating a stable demand for full-time Data Analysts in Egypt across different sectors.<br>
+
 ![alt text](assets/1_top_paying_jobs.png)
 *Bar Graph visualizing the salary comparison across job roles*
 <br>
