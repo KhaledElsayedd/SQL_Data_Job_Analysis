@@ -86,6 +86,7 @@ FROM (
     INNER JOIN skills_dim AS skills ON job_skills.skill_id = skills.skill_id;
 ```
 Here's the breakdown of the most demanded skills for the top 10 highest paying data analyst jobs in 2023:
+
 **Top Skills Summary:<br>**
  Skill : Count<br>
  python :     3<br>
