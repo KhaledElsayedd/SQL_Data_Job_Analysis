@@ -53,7 +53,7 @@ The average yearly salary across all roles is approximately $58,116.
 - **Job Schedule:** <br>
 All positions are full-time, indicating a stable demand for full-time Data Analysts in Egypt across different sectors.<br>
 
-![Salary Comparison Across Job Roles](assets\1_top_paying_jobs.png)
+![Salary Comparison Across Job Roles][def]
 *Bar Graph visualizing the salary comparison across job roles*
 <br>
 ### 2. Skills For Top Paying Jobs
@@ -250,3 +250,6 @@ This project provided a comprehensive look into the 2023 data analyst job market
 
 
 
+
+
+[def]: assets\1_top_paying_jobs.png
