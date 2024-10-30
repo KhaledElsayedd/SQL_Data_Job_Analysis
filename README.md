@@ -88,17 +88,18 @@ FROM (
 Here's the breakdown of the most demanded skills for the top 10 highest paying data analyst jobs in 2023:
 
 **Top Skills Summary:<br>**
- Skill : Count<br>
- python :     3<br>
- sql  :    2<br>
- flow  :    2<br>
- azure  :    1<br>
- power bi   :   1<br>
- dax   :   1<br>
- sap   :  1<br>
- r    :  1<br>
- spark   :   1<br>
- excel   :   1<br>
+| Skill     | Count |
+|-----------|-------|
+| Python    | 3     |
+| SQL       | 2     |
+| Flow      | 2     |
+| Azure     | 1     |
+| Power BI  | 1     |
+| DAX       | 1     |
+| SAP       | 1     |
+| R         | 1     |
+| Spark     | 1     |
+| Excel     | 1     |
  
  - Python is the most in-demand skill, followed by SQL and Flow.
  - Other skills like Azure, Power BI, DAX, SAP, R, Spark, and Excel appear less frequently, indicating more specialized requirements for certain roles.<br>
